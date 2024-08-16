@@ -13,17 +13,23 @@ Peekaboo is a malicious software (virus) designed to alter the Master Boot Recor
 2. **MBR Overwrite**: The virus then overwrites the MBR with the image found at the following URL: [Image](https://i.ibb.co/J7G8fnw/IMG-1588.webp).
 3. **System Disruption**: After the MBR is overwritten, the system is likely to fail to boot, displaying the overwritten image instead.
 
-## Image MBR
-
-The image that replaces the MBR can be viewed at the following link:
-
-![Peekaboo Image](https://i.ibb.co/J7G8fnw/IMG-1588.webp)
-
 ## Image GDI
 
 It shows the troll face and displays colors that are annoying to the eyes:
 
 ![Peekaboo Image](https://i.ibb.co/t886HWy/image8.png)
+
+## Image MBR
+
+## BSOD
+
+After the GDI appears the blue screen of death appears and then the MBR is done to prevent access to windows:
+
+![Peekaboo Image](https://i.ibb.co/C8B0QRT/Bsodwindows10.png)
+
+The image that replaces the MBR can be viewed at the following link:
+
+![Peekaboo Image](https://i.ibb.co/J7G8fnw/IMG-1588.webp)
 
 ## Disclaimer
 
