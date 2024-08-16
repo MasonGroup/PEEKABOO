@@ -15,7 +15,7 @@ Peekaboo is a malicious software (virus) designed to alter the Master Boot Recor
 
 ## Image GDI
 
-It shows the troll face and displays colors that are annoying to the eyes:
+It shows the troll face and displays colors that are annoying to the eyes
 
 ![Peekaboo Image](https://i.ibb.co/t886HWy/image8.png)
 
@@ -23,11 +23,11 @@ It shows the troll face and displays colors that are annoying to the eyes:
 
 ## BSOD
 
-After the GDI appears the blue screen of death appears and then the MBR is done to prevent access to windows:
+After the GDI appears the blue screen of death appears and then the MBR is done to prevent access to windows
 
 ![Peekaboo Image](https://i.ibb.co/C8B0QRT/Bsodwindows10.png)
 
-The image that replaces the MBR can be viewed at the following link:
+This image replaces the MBR and the device is destroyed :)
 
 ![Peekaboo Image](https://i.ibb.co/J7G8fnw/IMG-1588.webp)
 
