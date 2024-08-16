@@ -1,6 +1,6 @@
 # Peekaboo
 
-**Author**: ABOLHB  
+**Programmer**: ABOLHB  
 **Language**: C#
 
 ## Overview
